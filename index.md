@@ -73,7 +73,7 @@ We may update this privacy policy from time to time. Any changes will be posted 
 If you have questions or concerns about this privacy policy or the Extension's data practices, please contact:
 
 **Developer**: [Pranava Kailash](https://www.linkedin.com/in/pranava-kailash/)
-**Email**: [Gmail](pranavakailashsp@gmail.com)
+**Email**: pranavakailashsp@gmail.com
 **GitHub**: [Pranava-Kailash](https://github.com/pranava-kailash)
 
 ## Legal Basis

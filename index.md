@@ -1,10 +1,10 @@
-# Privacy Policy for ChatGPT Prompt Enhancer
+# Privacy Policy for Prompt Enhancer
 
 **Last Updated: November 10, 2025**
 
 ## Introduction
 
-This privacy policy explains how the ChatGPT Prompt Enhancer Chrome extension ("the Extension") handles user information. We are committed to protecting your privacy and being transparent about our data practices.
+This privacy policy explains how the Prompt Enhancer Chrome extension ("the Extension") handles user information. We are committed to protecting your privacy and being transparent about our data practices.
 
 ## Data Collection
 
@@ -72,8 +72,8 @@ We may update this privacy policy from time to time. Any changes will be posted 
 
 If you have questions or concerns about this privacy policy or the Extension's data practices, please contact:
 
-**Developer**: Pranava Kailash
-**Email**: pranavakailashsp@gmail.com
+**Developer**: [Pranava Kailash](https://www.linkedin.com/in/pranava-kailash/)
+**Email**: [Gmail](pranavakailashsp@gmail.com)
 **GitHub**: [Pranava-Kailash](https://github.com/pranava-kailash)
 
 ## Legal Basis
